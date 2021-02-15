@@ -1,4 +1,4 @@
-# Library Management System Using C#
+# Library Management System Using C-sharp
 
 ![Project Image](/images/output.gif)
 
@@ -25,7 +25,7 @@ The main purpose of this project is to automate a library or a study center and 
 -   SQL (Local Database of Visual Studio)
 -   Visual Studio
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -45,7 +45,7 @@ The main purpose of this project is to automate a library or a study center and 
     > Change the connection string in the DatabaseConnection.cs file.
 ```
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -61,7 +61,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
 
 ---
 
@@ -81,4 +81,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     -   [@Mohamad Dbouk](https://github.com/mhdbouk/Apriori)
 
-[Back To The Top](#library-management-system-using-c#)
+[Back To The Top](#library-management-system-using-c-sharp)
